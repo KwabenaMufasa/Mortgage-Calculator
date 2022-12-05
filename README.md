@@ -24,6 +24,15 @@ Creating a sample mortgage calculator
 
     ![Image](Mortgage2.png)
 
+4. Variable is created for the final results.
+
+5. Print statement is created for all results. 
+
+    - Total amount to be paid.
+    - Total interest to principal paid over mortgage period.
+
+
+    ![Image](Mortgage3.png)
 
  
 
