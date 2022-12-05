@@ -18,6 +18,13 @@ Creating a sample mortgage calculator
     - Months - The number of months in a year.
 
     ![Image](Mortgage1.png)
+
+
+3. Using the key variables, create the syntax for all necessary calculations. 
+
+    ![Image](Mortgage2.png)
+
+
  
 
 
